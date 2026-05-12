@@ -1,0 +1,11 @@
+max_homology_dim: 1
+filtration_eps_max: 50
+buffer_size: 50
+min_trajectory_length: 30
+pi_grid_size: 20
+pi_sigma: 1.0
+pi_weight_power: 1.2
+n_statistical_features: 20
+n_pi_features: 400
+n_betti_features: 2
+total_features: 420

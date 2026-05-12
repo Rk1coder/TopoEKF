@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "TopoEKF: From State-Space Estimation to Topological Signatures for Enhanced Multi-Object Tracking and Anomaly Detection in UAVs"
+message: "If you use this software, please cite the accompanying article."
+type: software
+authors:
+  - family-names: "Kiratli"
+    given-names: "Rabia"
+  - family-names: "Eroglu"
+    given-names: "Alperen"
+  - family-names: "Unlu Eroglu"
+    given-names: "Hatice"
+repository-code: "https://github.com/your-organization/topoekf"
+abstract: "TopoEKF combines YOLO-based object detection, adaptive Extended Kalman filtering, topological data analysis, and anomaly detection for UAV-based multi-object tracking."
+keywords:
+  - UAV
+  - multi-object tracking
+  - extended Kalman filter
+  - topological data analysis
+  - anomaly detection
+license: "NOASSERTION"
+version: "0.1.0"
+date-released: "2026-05-12"

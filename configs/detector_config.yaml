@@ -1,0 +1,5 @@
+model_name: yolo12n.pt
+confidence_threshold: 0.10
+image_size: 960
+classes: [2, 3, 5, 7]
+device: auto

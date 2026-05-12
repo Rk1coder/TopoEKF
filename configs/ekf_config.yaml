@@ -1,0 +1,27 @@
+state_dim: 4
+obs_dim: 2
+dt: 0.033
+Q_base_diag: [1.0, 1.0, 0.01, 0.01]
+R_base_diag: [5.0, 5.0]
+P0_diag: [10.0, 10.0, 100.0, 100.0]
+ema_alpha_dense: 0.85
+ema_alpha_sparse: 0.70
+ema_alpha_default: 0.80
+occlusion_scale: 0.2
+max_miss_scale: 5
+lambda_velocity: 0.05
+scene_complexity:
+  dense_urban: 1.30
+  highway: 1.00
+  mixed: 1.15
+tda_lambda: 0.4
+tda_theta_beta: 3.0
+tda_eps_max: 10.0
+max_miss_count: 10
+init_confidence_threshold: 0.7
+tda_update_frequency: 5
+gating_standard: 9.21
+gating_high_uncertainty: 5.99
+gating_low_uncertainty: 13.82
+trace_high_threshold: 50.0
+trace_low_threshold: 10.0

@@ -1,0 +1,8 @@
+n_estimators: 100
+contamination: 0.15
+max_samples: 256
+random_state: 42
+n_jobs: -1
+anomaly_score_threshold: -0.1
+latency_target_ms: 50
+online_mode: true
