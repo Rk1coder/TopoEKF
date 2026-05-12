@@ -8,7 +8,7 @@ The repository accompanies the study **"TopoEKF: From State-Space Estimation to 
 
 ## Authors
 
-- [Rabia Kiratli](https://github.com/your-rabia-profile)
+- [Rabia Kiratli](https://github.com/Rk1coder)
 - [Alperen Eroglu](https://github.com/your-alperen-profile)
 - [Hatice Unlu Eroglu](https://github.com/your-hatice-profile)
 
