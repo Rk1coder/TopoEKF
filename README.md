@@ -198,11 +198,4 @@ Expected status in the prepared release:
 
 If you use this project, please cite the accompanying article metadata. A draft citation file is provided in [`CITATION.cff`](CITATION.cff). Update the final title, venue, DOI, and publication year before making the repository public.
 
-## Release Status
 
-This repository is prepared for private GitHub hosting first. Before switching to public visibility:
-
-- replace author placeholder profile links,
-- add the final publication citation,
-- choose and add a license,
-- verify that no private datasets or unpublished reviewer-only material are included.
