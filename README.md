@@ -21,6 +21,7 @@ Affiliation: Necmettin Erbakan University
 The repository includes one annotated output video and a lightweight GIF preview.
 
 ![TopoEKF demo preview](assets/results/topoekf_demo_preview.gif)
+![TopoEKF demo preview](assets/results/topoekf_demo_preview_2.gif)
 
 - Output video: [`assets/results/topoekf_demo.mp4`](assets/results/topoekf_demo.mp4)
 - Visualization convention:
@@ -90,19 +91,7 @@ Isolation Forest
 Tracked Objects + Anomaly Labels + Output Video
 ```
 
-```mermaid
-flowchart TD
-    A[Input UAV Video Frames] --> B[YOLO Object Detection]
-    B --> C[Bounding Box + Confidence Extraction]
-    C --> D[Mahalanobis Distance + Hungarian Algorithm]
-    D --> E[Adaptive Extended Kalman Filter]
-    E --> F[Trajectory Buffer]
-    F --> G[Persistent Homology / TDA Feature Extraction]
-    G --> H[Topology-Aware Covariance Update]
-    G --> I[Isolation Forest Anomaly Detection]
-    H --> E
-    I --> J[Tracked Objects + Anomaly Labels + Output Video]
-```
+![TopoEKF system overview](assets/results/system-overview.png)
 
 ## Main Contributions
 
