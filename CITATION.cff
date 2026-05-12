@@ -9,7 +9,7 @@ authors:
     given-names: "Alperen"
   - family-names: "Unlu Eroglu"
     given-names: "Hatice"
-repository-code: "https://github.com/your-organization/topoekf"
+repository-code: "https://github.com/Rk1coder/TopoEKF.git"
 abstract: "TopoEKF combines YOLO-based object detection, adaptive Extended Kalman filtering, topological data analysis, and anomaly detection for UAV-based multi-object tracking."
 keywords:
   - UAV
