@@ -196,6 +196,6 @@ Expected status in the prepared release:
 
 ## Citation
 
-If you use this project, please cite the accompanying article metadata. A draft citation file is provided in [`CITATION.cff`](CITATION.cff). Update the final title, venue, DOI, and publication year before making the repository public.
+Rabia Kıratlı, Hatice Ünlü Eroğlu, Alperen Eroğlu. (2026). TopoEKF: From State-Space Estimation to Topological Signatures for Enhanced Multi-Object Tracking and Anomaly Detection in UAVs. Computer Modeling in Engineering & Sciences, doi:10.32604/cmes.2026.081411.
 
 
