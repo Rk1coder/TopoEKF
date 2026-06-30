@@ -196,6 +196,6 @@ Expected status in the prepared release:
 
 ## Citation
 
-Rabia Kıratlı, Hatice Ünlü Eroğlu, Alperen Eroğlu. (2026). TopoEKF: From State-Space Estimation to Topological Signatures for Enhanced Multi-Object Tracking and Anomaly Detection in UAVs. Computer Modeling in Engineering & Sciences, doi:10.32604/cmes.2026.081411. https://doi.org/10.32604/cmes.2026.081411
+Kıratlı, Rabia, Ünlü Eroğlu, Hatice, Eroğlu, Alperen. (2026). TopoEKF: From State-Space Estimation to Topological Signatures for Enhanced Multi-Object Tracking and Anomaly Detection in UAVs. Computer Modeling in Engineering & Sciences, 147(3), 31. https://doi.org/10.32604/cmes.2026.081411
 
 
